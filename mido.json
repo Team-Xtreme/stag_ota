@@ -1,0 +1,26 @@
+{
+  "forum_url": "", 
+  "build_date": "", 
+  "changelog": "",
+  "url": "", 
+  "error": "false", 
+  "filename": "", 
+  "filesize": "", 
+  "md5": "", 
+  "donate_url": "", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "", 
+  "website_url": "", 
+  "developer": ""
+}
