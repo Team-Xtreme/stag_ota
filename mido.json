@@ -1,26 +1,26 @@
 {
-  "forum_url": "", 
-  "build_date": "20200211", 
-  "changelog": "",
-  "url": "", 
-  "error": "false", 
-  "filename": "", 
-  "filesize": "", 
-  "md5": "", 
-  "donate_url": "", 
+  "forum_url": "",
+  "build_date": "20200211",
+  "changelog": "==== ====",
+  "url": "https://old-fog-134c.stag.workers.dev/StagOS-mido-10.0.1-UNOFFICIAL-20200211-0401.zip",
+  "error": "false",
+  "filename": "StagOS-mido-10.0.1-UNOFFICIAL-20200211-0401.zip",
+  "filesize": "670564352",
+  "md5": "",
+  "donate_url": "",
   "addons": [
     {
-      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
-      "summary": "Magisk", 
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip",
+      "summary": "Magisk",
       "title": "Magisk"
-    }, 
+    },
     {
       "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
-      "summary": "Magisk Uninstaller", 
+      "summary": "Magisk Uninstaller",
       "title": "Magisk"
     }
-  ], 
-  "developer_url": "", 
-  "website_url": "", 
+  ],
+  "developer_url": "",
+  "website_url": "",
   "developer": ""
 }
